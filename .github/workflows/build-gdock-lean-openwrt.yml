@@ -26,7 +26,7 @@ env:
   KMODS_IN_FIRMWARE: false
   WEBROOT: /data/dnmp/www/openwrt.cc
   UPLOAD_RCLONE: true
-  UPLOAD_WETRANSFER: true
+  UPLOAD_WETRANSFER: false
   TZ: Asia/Shanghai
 
 jobs:
